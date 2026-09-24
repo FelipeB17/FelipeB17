@@ -67,9 +67,8 @@
 - Introducción a gestión de redes e IPv6 básico — LACNIC (2025)
 - Networking Basics — Cisco (2025) · Google AI Essentials — Google (2025)
 
-## 📈 Estadísticas
+## 📈 Actividad
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=FelipeB17&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&locale=es" alt="Estadísticas de GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeB17&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Lenguajes más usados" />
+  <img src="https://streak-stats.demolab.com?user=FelipeB17&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones en GitHub" />
 </p>
